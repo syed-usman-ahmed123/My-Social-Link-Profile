@@ -1,0 +1,9 @@
+# Node modules ignore
+node_modules/
+
+# Other common ignores
+.DS_Store
+.env
+*.log
+dist/
+.idea/
